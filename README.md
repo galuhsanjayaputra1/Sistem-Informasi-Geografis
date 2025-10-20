@@ -60,4 +60,5 @@ const RoadSchema = new mongoose.Schema({
 module.exports = mongoose.model('Road', RoadSchema);
 
 #
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/82fe0ce5-d955-49da-8d01-d33955c64951" />
+<img width="919" height="560" alt="Screenshot (762)" src="https://github.com/user-attachments/assets/b9ebe2bb-c6d6-4e4a-95d2-8bf43babb91d" />
+
