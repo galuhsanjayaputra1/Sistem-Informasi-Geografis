@@ -1,0 +1,108 @@
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "jalan-001",
+          "name": "Jalan Hercules Raya",
+          "village": "Melong",
+          "notes": "Jalan utama di wilayah Kampung Hercules",
+          "created_at": "2025-10-20T00:00:00Z"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [107.55399035407078, -6.923864310355924],
+            [107.55368145130501, -6.924676030259235]
+          ]
+        }
+      },
+    
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jalan-002",
+        "name": "Jalan Capung",
+        "village": "Melong",
+        "notes": "Jalan perkampungan sejajar dengan Hercules Raya",
+        "created_at": "2025-10-20T00:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.55482834989232, -6.923961585116189],
+          [107.55447652191145, -6.924927060262277]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jalan-003",
+        "name": "Jalan Foker Raya",
+        "village": "Melong",
+        "notes": "Jalan utama penghubung antara jalan kecil kampung",
+        "created_at": "2025-10-20T00:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.55475388152286, -6.925017274389049],
+          [107.55531432924323, -6.923408772615119]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jalan-004",
+        "name": "Jalan Dahkota Raya",
+        "village": "Melong",
+        "notes": "Jalan penghubung antar gang di sekitar Foker Raya",
+        "created_at": "2025-10-20T00:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.55438810864382, -6.923052327216169],
+          [107.55532657004437, -6.9233925705571835]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jalan-005",
+        "name": "Jalan Foker Tengah 1",
+        "village": "Melong",
+        "notes": "Jalan tengah kampung Foker sisi barat",
+        "created_at": "2025-10-20T00:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.55555098472678, -6.923493833408941],
+          [107.55503279082262, -6.9250937835836766]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jalan-006",
+        "name": "Jalan Foker Tengah 2",
+        "village": "Melong",
+        "notes": "Jalan tengah kampung Foker sisi timur",
+        "created_at": "2025-10-20T00:00:00Z"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [107.55579988101152, -6.923566742648987],
+          [107.55526944546966, -6.925170083084282]
+        ]
+      }
+    }
+  ]
+}
