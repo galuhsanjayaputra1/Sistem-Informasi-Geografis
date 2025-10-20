@@ -1,4 +1,5 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a0bef34b-24fb-429c-9077-96a146d03e60" /># GeoJSON Jalan Kelurahan Melong
+
+#GeoJSON Jalan Kelurahan Melong
 
 Repository ini berisi data 6 jalan di Kelurahan Melong dalam format GeoJSON.  
 Setiap jalan disimpan sebagai satu fitur (Feature) dengan tipe geometry `LineString`.
@@ -58,7 +59,8 @@ const RoadSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Road', RoadSchema);
-
+```
 #
 <img width="919" height="560" alt="Screenshot (762)" src="https://github.com/user-attachments/assets/b9ebe2bb-c6d6-4e4a-95d2-8bf43babb91d" />
+
 
